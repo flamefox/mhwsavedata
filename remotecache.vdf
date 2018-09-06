@@ -4,10 +4,10 @@
 	{
 		"root"		"0"
 		"size"		"9438432"
-		"localtime"		"1536198539"
-		"time"		"1536198540"
+		"localtime"		"1536250358"
+		"time"		"1536250357"
 		"remotetime"		"1534361225"
-		"sha"		"d35c8eaf9b2be3e8be3a5c9b27b139a41d8e486d"
+		"sha"		"437081518ece3e537224e0bfe441c6c63fdfcced"
 		"syncstate"		"3"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
@@ -16,12 +16,12 @@
 	{
 		"root"		"0"
 		"size"		"64552"
-		"localtime"		"1536198531"
-		"time"		"1536198532"
-		"remotetime"		"1536198532"
-		"sha"		"9aae40413a3d38934454996e5f2388b9064e00a2"
+		"localtime"		"1536250358"
+		"time"		"1536250358"
+		"remotetime"		"1536249363"
+		"sha"		"33a652f5ea5c677e9c144b76623b8187783c211a"
 		"syncstate"		"3"
-		"persiststate"		"2"
+		"persiststate"		"0"
 		"platformstosync2"		"-1"
 	}
 }
